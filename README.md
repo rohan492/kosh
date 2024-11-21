@@ -52,7 +52,3 @@ Kosh (referring to a "vault" in hindi) is a React functional component designed 
 ## Contributing
 
 Feel free to submit issues or pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License.
